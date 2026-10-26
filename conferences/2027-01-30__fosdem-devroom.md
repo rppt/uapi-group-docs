@@ -1,14 +1,14 @@
-# Image-Based Linux and Boot Integrity Devroom @ FOSDEM 27 - DRAFT
+# Image-Based Linux and Boot Integrity Devroom @ FOSDEM 27
 FOSDEM is an annual free event for software developers to meet, share ideas and collaborate.
 It takes place on January 30 and 31 at the ULB Solbosch Campus in Brussels, Belgium.
 Learn more at https://fosdem.org/2027/.
 
-The UAPI group, a community for people with an interest in innovating how we build, deploy, run, and update modern security-focused Linux operating systems, intends to host a devroom at FOSDEM 2027.
+The UAPI group, a community for people with an interest in innovating how we build, deploy, run, and update modern security-focused Linux operating systems, will host a devroom at FOSDEM 2027.
 A "devroom" (a FOSDEM term) is a co-located mini-conference with its own separate track.
 
 <div align="center">
 <h2>Image-Based Linux and Boot Integrity Devroom</h2>
-<b>TBD</b><br />
+<b>2026/01/30, afternoon</b><br />
 Drop in for talks on image-based Linux and secure / attestable systems,<br />
 and for a chat with UAPI folks.
 </div>
