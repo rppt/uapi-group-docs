@@ -8,7 +8,7 @@ A "devroom" (a FOSDEM term) is a co-located mini-conference with its own separat
 
 <div align="center">
 <h2>Image-Based Linux and Boot Integrity Devroom</h2>
-<b>2027/01/30, afternoon</b><br />
+<b>2027/01/30, Saturday afternoon</b><br />
 Drop in for talks on image-based Linux and secure / attestable systems,<br />
 and for a chat with UAPI folks.
 </div>
